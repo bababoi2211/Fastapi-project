@@ -1,0 +1,61 @@
+
+    {
+        "id": 1,
+        "name": "Iphone13",
+        "price": 41000,
+        "inventory": 3,
+        "inorder": true,
+        "owner_info": {
+            "id": 5,
+            "email": "alborz@gmail.com",
+            "created_at": "2024-08-20T17:28:08.028013+03:30"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Iphone15",
+        "price": 40500,
+        "inventory": 1,
+        "inorder": true,
+        "owner_info": {
+            "id": 8,
+            "email": "example@gmail.com",
+            "created_at": "2024-08-20T17:31:31.161801+03:30"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Iphone11",
+        "price": 2000,
+        "inventory": 2,
+        "inorder": true,
+        "owner_info": {
+            "id": 8,
+            "email": "example@gmail.com",
+            "created_at": "2024-08-20T17:31:31.161801+03:30"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Charger20",
+        "price": 1000,
+        "inventory": 1,
+        "inorder": true,
+        "owner_info": {
+            "id": 10,
+            "email": "Taban@gmail.com",
+            "created_at": "2024-08-22T01:36:09.068432+03:30"
+        }
+    },
+    {
+        "id": 5,
+        "name": "15W",
+        "price": 700,
+        "inventory": 9,
+        "inorder": true,
+        "owner_info": {
+            "id": 10,
+            "email": "Taban@gmail.com",
+            "created_at": "2024-08-22T01:36:09.068432+03:30"
+        }
+    }
